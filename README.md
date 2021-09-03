@@ -1,6 +1,5 @@
-## Hi! This is Caroline's first website!
-
-## and the theme is
+Hi! This is **Caroline's** first website!
+and the theme is
 
 # welcome to the Web Development World!
 
@@ -9,7 +8,8 @@ And here is a test for the Markdown.
 
 the codeing part of javascript is:
 
-`let myHeading = document.querySelector('.box-welcome');
+```
+let myHeading = document.querySelector('.box-welcome');
 
 function setUserName() {
 let myName = prompt('Your name?');
@@ -17,7 +17,8 @@ localStorage.setItem('name', myName);
 myHeading.textContent = 'Hi! ' + myName;
 }
 
-setUserName();`
+setUserName();
+```
 
 Is that cool?
 
